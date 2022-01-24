@@ -1,1 +1,0 @@
-# stac-bot.github.io
